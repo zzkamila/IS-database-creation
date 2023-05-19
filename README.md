@@ -7,7 +7,7 @@ ER-диаграмма базы данных для информационной 
 •	Студент (Student)
 •	Курс (Course)
 • Регистрация (Enrollment)
-• Инструктор (Instructor)
+• Преподаватель (Instructor)
 • Предложение курса (CourseOffer)
 •	Факультет (Department)
 
